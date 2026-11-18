@@ -1,0 +1,20 @@
+[
+  { "nota": 10, "comentario": "O suporte resolveu meu problema de certificado em minutos, muito atenciosos.", "tema": "suporte", "sentimento": "positivo" },
+  { "nota": 2, "comentario": "O sistema fica fora do ar toda semana e atrapalha meu fechamento mensal.", "tema": "produto", "sentimento": "negativo" },
+  { "nota": 4, "comentario": "Acho caro pelo que o produto entrega hoje.", "tema": "preço", "sentimento": "negativo" },
+  { "nota": 9, "comentario": "Interface fácil e intuitiva, aprendi a usar sozinha.", "tema": "usabilidade", "sentimento": "positivo" },
+  { "nota": 5, "comentario": "Demora muito pra responder os chamados que eu abro.", "tema": "suporte", "sentimento": "negativo" },
+  { "nota": 7, "comentario": "O produto é bom, mas faltam relatórios melhores.", "tema": "produto", "sentimento": "neutro" },
+  { "nota": 3, "comentario": "O vendedor prometeu funcionalidades que não existem.", "tema": "atendimento_comercial", "sentimento": "negativo" },
+  { "nota": 10, "comentario": "A entrega das obrigações sempre sai no prazo, confio muito.", "tema": "prazo", "sentimento": "positivo" },
+  { "nota": 4, "comentario": "A tela é confusa, perco tempo pra achar as funções.", "tema": "usabilidade", "sentimento": "negativo" },
+  { "nota": 8, "comentario": "Bom custo-benefício, vale o que pago.", "tema": "preço", "sentimento": "positivo" },
+  { "nota": 6, "comentario": "Os prazos de entrega às vezes atrasam no fim do mês.", "tema": "prazo", "sentimento": "negativo" },
+  { "nota": 9, "comentario": "Atendimento do time de suporte é excelente, sempre resolvem.", "tema": "suporte", "sentimento": "positivo" },
+  { "nota": 1, "comentario": "Travou no dia da entrega e perdi o prazo do SPED.", "tema": "produto", "sentimento": "negativo" },
+  { "nota": 7, "comentario": "Serve, mas poderia ser mais fácil de configurar no começo.", "tema": "usabilidade", "sentimento": "neutro" },
+  { "nota": 10, "comentario": "", "tema": "outro", "sentimento": "positivo" },
+  { "nota": 5, "comentario": "O comercial sumiu depois que fechei o contrato.", "tema": "atendimento_comercial", "sentimento": "negativo" },
+  { "nota": 8, "comentario": "Produto completo pro que eu preciso no fiscal.", "tema": "produto", "sentimento": "positivo" },
+  { "nota": 3, "comentario": "Subiram o preço na renovação sem avisar direito.", "tema": "preço", "sentimento": "negativo" }
+]
